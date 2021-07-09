@@ -1,8 +1,8 @@
-# bikesharing_finalproject
+# Bike Sharing Service Analysis
+## Final Project
 
-## Group Members
-
-Team 5: Thomas Shane, Paola Escamilla, Takuma Koide, Habtamu Tikuye, Mair Manson, Derrick Amegashie
+### Team 5
+Thomas Shane, Paola Escamilla, Takuma Koide, Habtamu Tikuye, Mair Manson & Derrick Amegashie
 
 ## Selected Topic:
 
