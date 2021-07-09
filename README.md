@@ -4,13 +4,12 @@
 ### Team 5
 Thomas Shane, Paola Escamilla, Takuma Koide, Habtamu Tikuye, Mair Manson & Derrick Amegashie
 
-## Selected Topic:
+## Topic
+An Analysis of Public Bike Sharing Service in Washington D.C.
 
-An Analysis of Public Bike Sharing (PBS) Services to uncover growing trends for potential business expansion
 
-## Reasons for selecting Topic:
-
-We want to offer a deeper analysis to investors and community on the growth trends of Public Bike Sharing Services in order to motivate investors to expand the business and increase trust from community to their usage
+## Reasons
+We want to offer a deeper analysis to the community and the city on the growth pattern that the bike service has followed in Washington D.C., from 2010 to 2021.
 
 ## Variables to Consider:
 -       Population, gender, age range
