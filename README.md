@@ -13,19 +13,18 @@ We want to offer a deeper analysis to investors and community on the growth tren
 ## DESCRIPTION OF SOURCE DATA
 We will be using datasources from Capitol Bikshare tripdata datasets to analyze the growth of its business through the number of trips taken, locations of bike stops, and membership ratio of users.
 ### BikeSharing Data:
-Â·      Capitol Bikshare (Washington D.C.) from 2010 - 05/2021 
+Capitol Bikshare (Washington D.C.) from 2010 - 05/2021:
 `<https://s3.amazonaws.com/capitalbikeshare-data/index.html>`
 ### Climate Information:
 - https://developer.accuweather.com/
 - https://www.ncdc.noaa.gov/cdo-web/search
 ### Census Data:
-Â·      U.S census data (Information around gender, occupation, age , type of usage)
+- U.S census data (Information around gender, occupation, age , type of usage)
 ## QUESTIONS TO ANSWER
-Â·      What kind of factors of location do impact on high demand of PBS?
-Â·      What are the reason in imbalance in ratio of member users and casual users by different bike station, if any?
-Â·      When 
-Â·      Are there any factors that cause negative impact on the growth of PBS in the city?(weather, location of bick docks etc)
-Â·      
+- What kind of factors of location do impact on high demand of PBS?
+- What are the reason in imbalance in ratio of member users and casual users by different bike station, if any? 
+- Are there any factors that cause negative impact on the growth of PBS in the city?(weather, location of bick docks etc)
+    
 
 ## ETL Process
 1. Prepare a Dataset of Capital Bikeshare bike trip data by eliminating  
@@ -169,6 +168,6 @@ We will be using datasources from Capitol Bikshare tripdata datasets to analyze 
 ## Mockup of Database
 
 ## Machine Learning
-Â·       We will use Visualization using Tableau and R. Visualize the maps of each city and show popular routes. Combine the map image with layering and pop-up highlighting the major stations, landmarks to assess the main incentives of riders choosing that routes
-Â·       We are also thinking about multivariate regression to identify which factor are affecting the PBS. Or random forest model to predict the availability of bikes in the stations
+- We will develop Visualization using Tableau and R. Visualize the maps of each city and show popular routes. Combine the map image with layering and pop-up highlighting the major stations, landmarks to assess the main incentives of riders choosing that routes
+- We are also thinking about multivariate regression to identify which factors are affecting the PBS. Or random forest model to predict the availability of bikes in the stations
 
